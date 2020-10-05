@@ -5,11 +5,11 @@ https://drive.google.com/file/d/13G_wXTSWDQHJpF8s428eshiGHDS_Opfq/view?usp=shari
 
 First, download and unpack `oai224.zip` to `dataset/` directory.
 
-## Training
-Customize parameters in block `Changeable parameters`
+## Training (see train.ipynb)
+Customize parameters in block `Changeable parameters` and run.
 
-## Testing
-Customize parameters in block `Choose architecture and model checkpoint`
+## Testing (see test.ipynb)
+Customize parameters in block `Choose architecture and model checkpoint` and run.
 
-## Test ensembles
-Customize parameters in block `Prepare ensemble parts`
+## Test ensembles (see test_ensemble.ipynb)
+Customize parameters in block `Prepare ensemble parts` and run.
